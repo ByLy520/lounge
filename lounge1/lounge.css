@@ -1,0 +1,46 @@
+h1, h2 {
+  font-family: sans-serif;
+  color:       gray;
+  border-bottom: 1px solid black;
+}
+p {
+  color: maroon;
+}
+blockquote.txl, p.txl {
+  color: green;
+}
+body {
+  font-size: small;
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+h1, h2 {
+  color: #007e7e;
+}
+h1 {
+  font-size: 150%;
+}
+h2 {
+  font-size: 130%;
+}
+body {
+  font-size:           small;
+  font-family:         Verdana, Helvetica, Arial, sans-serif;
+  line-height:         1.6em;
+}
+.guarantee {
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #444444;
+  border-color: white;
+  border-width: 1px;
+  border-style: dashed;
+  background-color: #a7cece;
+  padding: 25px;
+  padding-left: 80px;
+  margin: 30px;
+  margin-right: 250px;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+}
